@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text&family=Sen&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+	font-family: 'Sen', sans-serif;
+}
+
+html {
+	overflow-x: hidden;
+}

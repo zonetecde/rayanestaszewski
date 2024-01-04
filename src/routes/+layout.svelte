@@ -3,6 +3,6 @@
 	import '../app.css';
 </script>
 
-<div class="bg-[#443C68] h-screen w-screen">
+<div class="bg-[#443C68] w-screen">
 	<slot />
 </div>
