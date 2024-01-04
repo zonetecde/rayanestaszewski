@@ -129,15 +129,6 @@
 		/>
 
 		<br />
-
-		<PortfolioElement
-			title="Turing Machine Box"
-			description="Cette machine en ligne vous permet de créer et de simuler des algorithmes de machine de Turing ainsi que de les visualiser en temps réel."
-			image="assets/turingmachinebox.png"
-			link="https://turing-machine-box.vercel.app/"
-		/>
-
-		<br />
 		<br />
 		<br />
 
