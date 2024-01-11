@@ -95,6 +95,14 @@
 		<br />
 
 		<PortfolioElement
+			title="Valérie Maréchal"
+			description="Réalisation d'un site internet pour une psychopraticienne. Ce site internet présente ses services et permet de prendre rendez-vous en ligne."
+			image="assets/vm.png"
+			link="https://www.valeriemarechaltherapiemetz.fr/"
+		/>
+		<br />
+
+		<PortfolioElement
 			title="Random Github Repo"
 			description="Si vous cherchez de l'inspiration pour vos projets futurs, explorez ce site unique qui vous présentera une variété de projets de développeurs du monde entier de manière aléatoire."
 			image="assets/rgr.png"
