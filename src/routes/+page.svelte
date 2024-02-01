@@ -111,6 +111,10 @@
 
 		<br />
 
+		<PortfolioElement title="Salawat 'Ala Nabiyy" description="Créez des cercles de dhikr et rivalisez dans le bien en priant pour Sayyidina rasululLah ﷺ" image="assets/sws.png" link="https://salawat-ala-nabiyy.vercel.app/" />
+
+		<br />
+
 		<PortfolioElement
 			title="SignaMath - Dresseur de tableau de signes et de variations"
 			description="Dresser le tableau de signes, de variations ou de convexité d'une fonction mathématique n'a jamais été aussi simple grâce à cet outil mathématique en ligne."
@@ -160,7 +164,10 @@
 		/>
 		<br />
 
-		<PortfolioElement title="Maze Generator" description="Visualisez la génération de labyrinthes selon l'algorithme de Wilson." image="assets/mazegenerator.png" link="https://github.com/zonetecde/Maze-Generator" />
+		<PortfolioElement title="Maze Generator" description="Visualisez en temps réel l'exécution de votre code Brainfuck (Svelte X Python)." image="assets/mazegenerator.png" link="https://github.com/zonetecde/Maze-Generator" />
+
+		<br />
+		<PortfolioElement title="Yet another brainfuck interpreter" description="Visualisez en temps réel l'éxecution de votre code BrainFuck (Svelte X Python)" image="assets/yabfi.png" link="https://github.com/zonetecde/yet-another-bf-interpreter" />
 		<br />
 
 		<PortfolioElement
