@@ -128,7 +128,7 @@
 			title="Quran Caption"
 			description="Cette application web de montage vidéo vous permet de créer des sous-titres pour vos vidéos de récitation du Coran et de les incruster directement sur la vidéo."
 			image="assets/qurancaption.png"
-			link="https://www.qurancaption.com/"
+			link="https://github.com/zonetecde/qurancaption"
 		/>
 
 		<br />
