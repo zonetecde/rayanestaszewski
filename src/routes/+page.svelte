@@ -164,7 +164,7 @@
 		/>
 		<br />
 
-		<PortfolioElement title="Maze Generator" description="Visualisez en temps réel l'exécution de votre code Brainfuck (Svelte X Python)." image="assets/mazegenerator.png" link="https://github.com/zonetecde/Maze-Generator" />
+		<PortfolioElement title="Maze Generator" description="Visualisez en temps réel l'exécution de l'algorithme Wilson pour générer des labyrinthes." image="assets/mazegenerator.png" link="https://github.com/zonetecde/Maze-Generator" />
 
 		<br />
 		<PortfolioElement title="Yet another brainfuck interpreter" description="Visualisez en temps réel l'éxecution de votre code BrainFuck (Svelte X Python)" image="assets/yabfi.png" link="https://github.com/zonetecde/yet-another-bf-interpreter" />
@@ -183,7 +183,7 @@
 
 		<PortfolioElement
 			title="Who's the funniest ?"
-			description="Affrontez-vous avec vos amis pour créer le rire le plus contagieux. Un vote est organisé pour qualifier le vainqueur !"
+			description="Affrontez-vous avec vos amis pour créer le même le plus drole. Un vote est organisé pour qualifier le vainqueur !"
 			image="assets/wtf.png"
 			link="https://github.com/zonetecde/Who-s-the-funniest"
 		/>
