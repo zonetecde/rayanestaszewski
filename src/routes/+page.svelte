@@ -115,6 +115,10 @@
 
 		<br />
 
+		<PortfolioElement title="Bird Flapping" description="Qui n'aime pas l'oiseau jaune après tout..." image="assets/birdflapping.png" link="https://bird-flapping.vercel.app/" />
+
+		<br />
+
 		<PortfolioElement
 			title="SignaMath - Dresseur de tableau de signes et de variations"
 			description="Dresser le tableau de signes, de variations ou de convexité d'une fonction mathématique n'a jamais été aussi simple grâce à cet outil mathématique en ligne."
