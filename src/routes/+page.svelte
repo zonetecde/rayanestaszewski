@@ -58,6 +58,7 @@
 	<h1 class="text-xl md:text-4xl font-bold max-w-[50px] md:max-w-full text-white absolute left-24 top-1/2 -translate-y-1/2 right-12">Rayane Staszewski</h1>
 
 	<nav class="absolute top-1/2 -translate-y-1/2 right-2 text-right md:text-left md:right-12 text-lg md:text-xl flex flex-col md:flex-row md:gap-x-8">
+		<a href="https://www.github.com/zonetecde" target="_blank" class="text-white hover:underline">Mon Github</a>
 		<a href="#sites" class="text-white hover:underline">Mes sites</a>
 		<a href="#logiciels" class="text-white hover:underline">Mes logiciels</a>
 	</nav>
@@ -133,6 +134,14 @@
 			description="Cette application web de montage vidéo vous permet de créer des sous-titres pour vos vidéos de récitation du Coran et de les incruster directement sur la vidéo."
 			image="assets/qurancaption.png"
 			link="https://github.com/zonetecde/qurancaption"
+		/>
+		<br />
+
+		<PortfolioElement
+			title="Capture. Marquage. Recapture. Simulator"
+			description="Outil permettant d'apprendre visuellement la technique de capture-marquage-recapture pour estimer la taille d'une population animale."
+			image="assets/cmr.png"
+			link="https://github.com/zonetecde/cmr-simulator"
 		/>
 
 		<br />
@@ -212,8 +221,7 @@
 
 		<br />
 
-		<p><i>Et une dizaine d'autres...</i></p>
-
+		<p><i>Et une dizaine d'autres trouvables sur mon <a href="https://github.com/zonetecde" target="_blank" class="text-blue-400">Github</a> !</i></p>
 		<br />
 		<br />
 	</div>
