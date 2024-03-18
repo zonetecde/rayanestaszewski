@@ -113,7 +113,7 @@
 		<br />
 
 		<PortfolioElement
-			title="Calendrier Mémo Mobile"
+			title="Calendrier Mémo en Ligne"
 			description="Suivez vos tâches quotidiennes et vos événements importants avec cette application web simple et intuitive."
 			image="assets/cmm.png"
 			link="https://rayanestaszewski.fr/calendrier-memo-mobile/"
