@@ -142,7 +142,7 @@
 			title="Quran Caption"
 			description="Cette application web de montage vidéo vous permet de créer des sous-titres pour vos vidéos de récitation du Coran et de les incruster directement sur la vidéo."
 			image="assets/qurancaption.png"
-			link="https://github.com/zonetecde/qurancaption"
+			link="https://quran-caption.vercel.app/"
 		/>
 		<br />
 
@@ -150,7 +150,7 @@
 			title="Capture. Marquage. Recapture. Simulator"
 			description="Outil permettant d'apprendre visuellement la technique de capture-marquage-recapture pour estimer la taille d'une population animale."
 			image="assets/cmr.png"
-			link="https://github.com/zonetecde/cmr-simulator"
+			link="https://cmr-simulator.vercel.app/"
 		/>
 
 		<br />
